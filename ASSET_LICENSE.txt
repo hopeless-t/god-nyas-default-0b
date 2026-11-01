@@ -1,0 +1,25 @@
+God Nyāzu Default 0B Asset License v1.0
+
+Copyright (c) 2026 Kiyotaka Tonegawa. All rights reserved.
+
+Permission is granted to a person who lawfully obtains an official copy of this
+asset from a distribution point operated by the copyright holder to:
+
+1. use the asset, including for commercial purposes, as part of or alongside
+   Rokushin Gattai God Nyāzu or other software; and
+2. modify the asset for that person's own use.
+
+No permission is granted to redistribute, mirror, republish, sublicense, sell
+copies of, or otherwise provide this asset as a downloadable component to third
+parties without prior written permission from the copyright holder.
+
+Withdrawal or deletion of an official distribution point affects future
+acquisition only. Copies lawfully obtained before withdrawal may continue to be
+used under these terms.
+
+THE ASSET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ASSET
+OR THE USE OR OTHER DEALINGS IN THE ASSET.

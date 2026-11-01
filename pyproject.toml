@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "god-nyas-default-0b"
+version = "0.1.0"
+description = "Official optional default 0B starter asset for Rokushin Gattai God Nyāzu."
+requires-python = ">=3.11"
+license = {file = "ASSET_LICENSE.txt"}
