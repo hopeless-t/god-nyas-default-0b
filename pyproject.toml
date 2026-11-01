@@ -4,7 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "god-nyas-default-0b"
-version = "0.1.0"
-description = "Official optional default 0B starter asset for Rokushin Gattai God Nyāzu."
+version = "0.2.0"
+description = "Official strict-0B starter asset for Rokushin Gattai God Nyazu."
 requires-python = ">=3.11"
 license = {file = "ASSET_LICENSE.txt"}
+
+[project.scripts]
+godnyas-0b = "godnyas_default_0b.cli:main"
